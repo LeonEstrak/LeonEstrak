@@ -14,7 +14,7 @@
 <hr style:="border-top: 8px solid #bbbborder-radius: 5px;"/>
 
 <h2 style="font-family:'verdana'">
-Heya !! I am Aniket Chakraborty 😃. I am from New Delhi, India and currently doing my B.Tech from NIIT University. I am an aspiring Software Engineer with an inclination towards Full Stack Development. I prefer working with TypeScript in the front-end and using Go when designing my backend APIs.
+Heya !! I am Aniket Chakraborty 😃. I am from New Delhi, India and currently doing my B.Tech from NIIT University. I am an aspiring Software Engineer with an inclination towards Full Stack Development. I prefer working with Flutter or TypeScript in the front-end and using Go when designing my backend APIs.
 
 </h2>
 
