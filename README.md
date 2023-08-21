@@ -17,7 +17,6 @@
 Heya !! I am Aniket Chakraborty 😃. I am from New Delhi, India and currently managing the infrastructure of the India's biggest online Grocery Store. I am a Platform Engineer with experience in Full Stack Development. I like solving problems using automation tools, or creating automation tools that become a time-saver for my team.
 </h2>
 
-<hr style:="border-top: 8px solid #bbbborder-radius: 5px;"/>
  <!-- <br/><br/> -->
  
 > **Take a look at my most recent project:** [Take-A-Note!](https://take-a-note-f2e25.firebaseapp.com/) [[Source Code]](https://github.com/LeonEstrak/take-a-note-react)
