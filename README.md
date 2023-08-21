@@ -14,11 +14,8 @@
 <hr style:="border-top: 8px solid #bbbborder-radius: 5px;"/>
 
 <h2 style="font-family:'verdana'">
-Heya !! I am Aniket Chakraborty 😃. I am from New Delhi, India and currently doing my B.Tech from NIIT University. I am an aspiring Software Engineer with an inclination towards Full Stack Development. I prefer working with Flutter or TypeScript in the front-end and using Go when designing my backend APIs.
-
+Heya !! I am Aniket Chakraborty 😃. I am from New Delhi, India and currently managing the infrastructure of the India's biggest online Grocery Store. I am a Platform Engineer with experience in Full Stack Development. I like solving problems using automation tools, or creating automation tools that become a time-saver for my team.
 </h2>
-
-**Also, Actively looking for Internship Opportunities. Here's my [Resume](https://docs.google.com/document/d/1nIyFh8EHRiE0id_1oasR-uXgDAtigKcBathTfcggB9g/edit?usp=sharing)**
 
 <hr style:="border-top: 8px solid #bbbborder-radius: 5px;"/>
  <!-- <br/><br/> -->
